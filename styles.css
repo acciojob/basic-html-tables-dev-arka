@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+
+td,th,tbody,table{
+	padding: 5px;
+	border : 1px solid lightgrey;
+}
